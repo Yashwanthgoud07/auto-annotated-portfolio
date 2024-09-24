@@ -240,7 +240,7 @@ sections:
       "LET CONSISTENCY BE YOUR SUPERPOWER"
 
       ![](/images/images.jpg)
-    name: Johnna Doe
+    name: YASHWANTH GOUD BOMMAGOUNI
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
