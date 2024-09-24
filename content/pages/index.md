@@ -51,6 +51,41 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: 'CYBERSECURITY FOUNDATIONS '
+        url: ''
+      - type: Label
+        label: ''
+        url: ''
+      - type: Label
+        label: ORACLE CLOUD INFRASTRUCTURE
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: PYTHON
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -94,41 +129,6 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: LabelsSection
-    title: Skills
-    subtitle: The section subtitle
-    items:
-      - type: Label
-        label: 'CYBERSECURITY FOUNDATIONS '
-        url: ''
-      - type: Label
-        label: ''
-        url: ''
-      - type: Label
-        label: ORACLE CLOUD INFRASTRUCTURE
-        url: ''
-      - type: Label
-        label: SQL
-        url: ''
-      - type: Label
-        label: PYTHON
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
