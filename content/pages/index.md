@@ -70,6 +70,9 @@ sections:
       - type: Label
         label: PYTHON
         url: ''
+      - type: Label
+        label: LINUX
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
