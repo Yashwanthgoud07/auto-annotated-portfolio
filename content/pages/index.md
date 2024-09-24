@@ -49,7 +49,7 @@ sections:
       type: ImageBlock
       url: /images/1714048266498.jpg
       altText: altText of the image
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - type: LabelsSection
     title: Skills
