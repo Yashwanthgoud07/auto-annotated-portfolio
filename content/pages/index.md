@@ -70,9 +70,6 @@ sections:
       - type: Label
         label: PYTHON
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
