@@ -3,9 +3,9 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "headerVariant": "variant-a",
+        "isSticky": true,
+        "title": "",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -35,6 +35,12 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "altText": "",
+            "caption": "",
+            "elementId": ""
         }
     },
     "footer": {

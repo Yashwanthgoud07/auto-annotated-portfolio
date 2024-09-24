@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: HOME
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
@@ -48,12 +48,54 @@ sections:
     media:
       type: ImageBlock
       url: /images/1714048266498.jpg
-      altText: altText of the image
-      caption: Caption of the image
+      altText: ''
+      caption: ''
       elementId: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Meet me!!
+    text: >+
+      With a strong foundation in Computer Science Engineering and a focus on
+      cloud technologies, I am passionate about the evolving field of cloud
+      security. I have completed my Bachelor of Technology in Computer Science
+      Engineering with a specialization that has deepened my understanding of
+      cloud environments and their security needs.
+
+
+      Currently, I am working with Oracle Cloud Infrastructure (OCI), applying
+      my knowledge to enhance and secure cloud environments. My role involves
+      managing and optimizing cloud services, implementing robust security
+      measures, and addressing potential vulnerabilities. I am also actively
+      preparing for the OCI Foundations Associate certification to further
+      solidify my expertise in this area.
+
+
+      As I continue to grow in this field, I am excited about exploring new
+      challenges and contributing to the advancement of cloud security
+      practices. I look forward to connecting with professionals who share an
+      interest in cloud technologies and collaborating on innovative solutions.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'CYBERSECURITY FOUNDATIONS '
@@ -65,10 +107,13 @@ sections:
         label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
-        label: SQL
+        label: MYSQL
         url: ''
       - type: Label
         label: PYTHON
+        url: ''
+      - type: Label
+        label: LINUX
         url: ''
     colors: colors-f
     elementId: ''
