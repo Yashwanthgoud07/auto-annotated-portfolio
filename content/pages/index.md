@@ -171,7 +171,7 @@ sections:
     subtitle: ''
     title: PROJECTS
   - type: MediaGallerySection
-    title: Gallery
+    title: CERTIFICATIONS I HOLD !!!
     subtitle: This is the subtitle
     images: []
     colors: colors-a
