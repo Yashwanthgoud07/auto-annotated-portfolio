@@ -55,7 +55,7 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "apple"
+                "icon": "github"
             },
             {
                 "type": "Link",
