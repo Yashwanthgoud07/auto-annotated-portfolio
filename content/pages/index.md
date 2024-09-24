@@ -168,7 +168,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ''
     title: PROJECTS
   - type: MediaGallerySection
     title: Gallery
