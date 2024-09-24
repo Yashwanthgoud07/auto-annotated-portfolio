@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: YASHWANTH GOUD BOMMAGOUNI
-    subtitle: ''
+    subtitle: "\U0001F31F Welcome to My Portfolio! \U0001F31FI’m thrilled to share my journey and showcase my work through this portfolio. Here, you'll find a collection of projects that highlight my skills and creativity, as well as details about my internships and certifications that have shaped my professional path."
     styles:
       self:
         height: auto
