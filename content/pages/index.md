@@ -241,7 +241,7 @@ sections:
 
       ![](/images/images.jpg)
     name: YASHWANTH GOUD BOMMAGOUNI
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
