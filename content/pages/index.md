@@ -74,6 +74,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: flex-start
+        borderRadius: small
       title:
         textAlign: left
       subtitle:
