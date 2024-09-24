@@ -56,7 +56,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'CYBERSECUIRTY FOUNDATIONS '
+        label: 'CYBERSECURITY FOUNDATIONS '
         url: ''
       - type: Label
         label: ''
