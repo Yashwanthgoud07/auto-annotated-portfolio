@@ -54,7 +54,8 @@
                 "label": "",
                 "url": "/info",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             },
             {
                 "type": "Link",
