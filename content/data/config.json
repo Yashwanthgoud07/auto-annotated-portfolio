@@ -39,7 +39,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/gallery-3.jpg",
-            "altText": "altText of the image",
+            "altText": "",
             "caption": "",
             "elementId": ""
         }
