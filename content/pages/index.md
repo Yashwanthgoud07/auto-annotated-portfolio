@@ -51,44 +51,6 @@ sections:
       altText: ''
       caption: ''
       elementId: ''
-  - type: LabelsSection
-    title: Skills
-    subtitle: ''
-    items:
-      - type: Label
-        label: 'CYBERSECURITY FOUNDATIONS '
-        url: ''
-      - type: Label
-        label: ''
-        url: ''
-      - type: Label
-        label: ORACLE CLOUD INFRASTRUCTURE
-        url: ''
-      - type: Label
-        label: MYSQL
-        url: ''
-      - type: Label
-        label: PYTHON
-        url: ''
-      - type: Label
-        label: LINUX
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -131,6 +93,44 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: LabelsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Label
+        label: 'CYBERSECURITY FOUNDATIONS '
+        url: ''
+      - type: Label
+        label: ''
+        url: ''
+      - type: Label
+        label: ORACLE CLOUD INFRASTRUCTURE
+        url: ''
+      - type: Label
+        label: MYSQL
+        url: ''
+      - type: Label
+        label: PYTHON
+        url: ''
+      - type: Label
+        label: LINUX
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
