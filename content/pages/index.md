@@ -65,7 +65,7 @@ sections:
         label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
-        label: Next.js
+        label: SQL
         url: ''
       - type: Label
         label: Netlify
