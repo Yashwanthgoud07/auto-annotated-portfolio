@@ -169,6 +169,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: PROJECTS
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
