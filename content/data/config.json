@@ -55,7 +55,8 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
