@@ -55,7 +55,7 @@
     },
     "buttonPrimary": {
         "weight": "medium",
-        "case": "lowercase",
+        "case": "capitalize",
         "letterSpacing": "wider",
         "horizontalPadding": 30,
         "verticalPadding": 30
