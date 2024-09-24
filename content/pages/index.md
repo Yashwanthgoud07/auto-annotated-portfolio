@@ -48,7 +48,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/1714048266498.jpg
-      altText: altText of the image
+      altText: ''
       caption: ''
       elementId: ''
   - type: LabelsSection
