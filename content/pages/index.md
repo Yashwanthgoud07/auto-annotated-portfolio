@@ -54,7 +54,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: 'ABOUT ME '
+    title: Who Am I ?
     text: >+
       With a strong foundation in Computer Science Engineering and a focus on
       cloud technologies, I am passionate about the evolving field of cloud
