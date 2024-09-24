@@ -10,34 +10,25 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/Yashwanthgoud07/Yashwanthgoud07",
+                "icon": "github"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/byashwanthgoud07/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -66,9 +57,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/byashwanthgoud07/",
+                "altText": "https://www.linkedin.com/in/byashwanthgoud07/"
             }
         ],
         "contacts": {

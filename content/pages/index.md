@@ -12,9 +12,9 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: YASHWANTH GOUD BOMMAGOUNI
-    subtitle: ' Welcome to My Portfolio! I’m thrilled to share my journey and showcase my work through this portfolio. Here, you''ll find a collection of projects that highlight my skills and creativity, as well as details about my internships and certifications that have shaped my professional path.'
+    subtitle: ' Welcome to My Portfolio! I’m thrilled to share my journey and showcase my work through this portfolio. Here, you''ll find a collection of projects that highlight my skills and creativity, as well as details about my work experiences and certifications that have shaped my professional path.'
     styles:
       self:
         height: auto
@@ -33,7 +33,10 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: right
+        textDecoration: underline
+        fontStyle: italic
+        fontWeight: 500
       subtitle:
         textAlign: left
       text:
@@ -48,6 +51,41 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: 'CYBERSECURITY FOUNDATIONS '
+        url: ''
+      - type: Label
+        label: ''
+        url: ''
+      - type: Label
+        label: ORACLE CLOUD INFRASTRUCTURE
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: PYTHON
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -86,6 +124,83 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/logo1.svg
+        altText: logo one
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo2.svg
+        altText: logo two
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo3.svg
+        altText: logo three
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo4.svg
+        altText: logo four
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo5.svg
+        altText: logo five
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-a
+    spacing: 16
+    columns: 5
+    aspectRatio: '16:9'
+    showCaption: true
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: QuoteSection
+    quote: |
+      "LET CONSISTENCY BE YOUR SUPERPOWER"
+
+      ![](/images/images.jpg)
+    name: YASHWANTH GOUD BOMMAGOUNI
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
