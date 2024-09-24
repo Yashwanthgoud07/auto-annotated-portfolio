@@ -62,7 +62,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: ORACEL
+        label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
         label: Next.js
