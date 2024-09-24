@@ -172,7 +172,7 @@ sections:
     title: PROJECTS
   - type: MediaGallerySection
     title: CERTIFICATIONS I HOLD !!!
-    subtitle: This is the subtitle
+    subtitle: ''
     images: []
     colors: colors-a
     spacing: 16
