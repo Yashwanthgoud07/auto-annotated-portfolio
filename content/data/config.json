@@ -53,7 +53,7 @@
                 "type": "Link",
                 "label": "",
                 "url": "/info",
-                "altText": "github",
+                "altText": "Github",
                 "showIcon": true,
                 "icon": "github",
                 "iconPosition": "left"
