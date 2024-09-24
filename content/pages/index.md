@@ -59,7 +59,7 @@ sections:
         label: 'CYBERSECUIRTY FOUNDATIONS '
         url: ''
       - type: Label
-        label: React
+        label: ''
         url: ''
       - type: Label
         label: Microsoft Office
