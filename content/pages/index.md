@@ -62,7 +62,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: ORACEL
         url: ''
       - type: Label
         label: Next.js
