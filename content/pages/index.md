@@ -65,7 +65,7 @@ sections:
         label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
-        label: SQL
+        label: MYSQL
         url: ''
       - type: Label
         label: PYTHON
