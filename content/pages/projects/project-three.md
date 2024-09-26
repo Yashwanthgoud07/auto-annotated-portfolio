@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: 'Comparison of machine learning algorithms for predicting crime Hotspots '
 colors: colors-a
 date: ''
 client: Major project at college
