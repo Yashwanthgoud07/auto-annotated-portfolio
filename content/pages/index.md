@@ -194,7 +194,7 @@ sections:
       - type: ImageBlock
         url: /images/foundations google.jpg
         altText: ''
-        caption: ''
+        caption: Google
         elementId: ''
       - type: ImageBlock
         url: /images/CISCO.jpg
