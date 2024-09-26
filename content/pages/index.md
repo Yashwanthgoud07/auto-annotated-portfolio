@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: click here for more
         altText: ''
         url: 'https://www.linkedin.com/in/byashwanthgoud07/'
         showIcon: false
