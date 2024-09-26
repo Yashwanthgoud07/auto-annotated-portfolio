@@ -31,7 +31,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
       title:
         textAlign: right
         fontStyle: italic
