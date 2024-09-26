@@ -234,7 +234,7 @@ sections:
       - type: ImageBlock
         url: /images/internstud.jpg
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
