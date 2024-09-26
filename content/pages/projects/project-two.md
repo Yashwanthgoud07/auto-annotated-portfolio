@@ -5,9 +5,13 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Modeling and predicting of cyberhacking breaches Modeling and predicting of
+  cyberhacking breaches  It is a improvised model to the project predicting
+  breach and inter arrival time from cyber breaches happened between 1990 to
+  2001 using ARMA(AUTO REGRESSIVE MOVING AVERAGE) , GARCH(GENERALIZED AUTO
+  REGRESSIVE CONDITIONAL HETEROSKEDASTICITY) - TWO MACHINE LEARNING MODELS we
+  can predict exact breach inter arrival time. this is the first project and
+  wait i will add another project too
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
