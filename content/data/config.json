@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/projects"
+                "url": "/projects",
+                "icon": "arrowUpRight"
             }
         ],
         "socialLinks": [
