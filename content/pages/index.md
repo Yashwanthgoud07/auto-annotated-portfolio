@@ -38,7 +38,6 @@ sections:
         textAlign: right
         fontStyle: italic
         fontWeight: 500
-        textDecoration: underline
       subtitle:
         textAlign: left
       text:
