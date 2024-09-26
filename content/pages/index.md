@@ -1,10 +1,10 @@
 ---
 type: PageLayout
 title: HOME
-colors: colors-e
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-1.jpg
+  url: /images/portfolio s.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: YASHWANTH GOUD BOMMAGOUNI
+    title: YASHWANTHGOUD BOMMAGOUNI
     subtitle: ' Welcome to My Portfolio! I’m thrilled to share my journey and showcase my work through this portfolio. Here, you''ll find a collection of projects that highlight my skills and creativity, as well as details about my work experiences and certifications that have shaped my professional path.'
     styles:
       self:
@@ -25,17 +25,17 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
+        alignItems: flex-end
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
+        borderWidth: 3
+        borderStyle: none
       title:
-        textAlign: right
-        textDecoration: underline
-        fontStyle: italic
+        textAlign: left
         fontWeight: 500
       subtitle:
         textAlign: left
@@ -44,7 +44,34 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: click here for more
+        altText: ''
+        url: 'https://www.linkedin.com/in/byashwanthgoud07/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+      - type: Button
+        label: DOWNLOAD CV
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1G6viSygPIDV4v2fsC_GU35g8XALW8uod/view?usp=drive_link
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: 'MAIL ME '
+        altText: ''
+        url: /b.yashwanthgoud07@gmail.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1714048266498.jpg
@@ -136,8 +163,8 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        label: Click here for more info on projects
+        url: 'https://github.com/Yashwanthgoud07/Yashwanthgoud07'
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -146,7 +173,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -171,70 +197,60 @@ sections:
     subtitle: ''
     title: PROJECTS
   - type: MediaGallerySection
-    title: CERTIFICATIONS I HOLD !!!
+    title: CERTIFICATIONS & ACHIEVEMENTS I HOLD !!!
     subtitle: ''
     images:
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/foundations google.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/CISCO.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/ibm.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/mastercard.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/oracle cloud.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/hof.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/pinacle.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/prod.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/internstud.jpg
+        altText: ''
+        caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+        url: /images/linux.jpg
+        altText: ''
+        caption: ''
         elementId: ''
-    colors: colors-a
+    colors: colors-f
     spacing: 16
     columns: 5
     aspectRatio: '16:9'

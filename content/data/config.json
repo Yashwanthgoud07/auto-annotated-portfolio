@@ -10,8 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "GMAIL",
+                "altText": "",
+                "url": "/b.yashwanthgoud07@gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
