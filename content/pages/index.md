@@ -25,10 +25,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
+          - pt-5
+          - pb-5
+          - pl-5
+          - pr-5
         alignItems: flex-end
         justifyContent: center
         flexDirection: col-reverse
