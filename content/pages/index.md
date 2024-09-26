@@ -217,7 +217,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/lor.jpg
+        url: /images/hof.jpg
         altText: ''
         caption: ''
         elementId: ''
