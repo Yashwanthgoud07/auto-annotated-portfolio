@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: HOME
-colors: colors-b
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/portfolio s.jpg
