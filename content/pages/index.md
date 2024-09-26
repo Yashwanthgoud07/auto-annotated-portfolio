@@ -199,7 +199,7 @@ sections:
       - type: ImageBlock
         url: /images/CISCO.jpg
         altText: ''
-        caption: Cisco
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/ibm.jpg
