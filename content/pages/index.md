@@ -32,6 +32,7 @@ sections:
         alignItems: flex-end
         justifyContent: center
         flexDirection: col-reverse
+        borderWidth: 3
       title:
         textAlign: right
         fontStyle: italic
