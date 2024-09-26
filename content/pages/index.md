@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: inset
     title: YASHWANTH GOUD BOMMAGOUNI
     subtitle: ' Welcome to My Portfolio! I’m thrilled to share my journey and showcase my work through this portfolio. Here, you''ll find a collection of projects that highlight my skills and creativity, as well as details about my work experiences and certifications that have shaped my professional path.'
