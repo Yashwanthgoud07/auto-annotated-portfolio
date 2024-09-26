@@ -13,7 +13,7 @@ description: >-
   can predict exact breach inter arrival time. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/modeling and predicting of cyberhacking breaches.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
