@@ -212,8 +212,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/oracle cloud.jpg
         altText: ''
         caption: ''
         elementId: ''
