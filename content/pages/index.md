@@ -54,7 +54,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Button
-        label: Learn more
+        label: DOWNLOAD CV
         altText: ''
         url: >-
           /https://drive.google.com/file/d/1G6viSygPIDV4v2fsC_GU35g8XALW8uod/view?usp=drive_link
