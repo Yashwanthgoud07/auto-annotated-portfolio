@@ -57,7 +57,7 @@ sections:
         label: DOWNLOAD CV
         altText: ''
         url: >-
-          /https://drive.google.com/file/d/1G6viSygPIDV4v2fsC_GU35g8XALW8uod/view?usp=drive_link
+          https://drive.google.com/file/d/1G6viSygPIDV4v2fsC_GU35g8XALW8uod/view?usp=drive_link
         showIcon: false
         icon: arrowRight
         iconPosition: right
