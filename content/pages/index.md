@@ -227,8 +227,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/prod.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
