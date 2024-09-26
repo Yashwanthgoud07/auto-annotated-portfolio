@@ -33,7 +33,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderWidth: 3
-        borderStyle: dashed
+        borderStyle: dotted
       title:
         textAlign: right
         fontStyle: italic
