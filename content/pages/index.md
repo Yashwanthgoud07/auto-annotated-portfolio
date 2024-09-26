@@ -36,7 +36,6 @@ sections:
         borderStyle: none
       title:
         textAlign: right
-        fontStyle: italic
         fontWeight: 500
       subtitle:
         textAlign: left
