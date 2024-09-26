@@ -8,7 +8,7 @@ description: ' Comparison of machine learning algorithms for predicting crime Ho
 featuredImage:
   type: ImageBlock
   url: /images/crime hotspots.png
-  altText: Project thumbnail image
+  altText: 'Comparison of machine learning algorithms for predicting crime Hotspots '
 media:
   type: ImageBlock
   url: /images/bg3.jpg
