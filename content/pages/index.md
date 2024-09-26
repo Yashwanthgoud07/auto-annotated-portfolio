@@ -136,7 +136,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Click here for more info on projects
         url: 'https://github.com/Yashwanthgoud07/Yashwanthgoud07'
     showDate: false
     showDescription: true
