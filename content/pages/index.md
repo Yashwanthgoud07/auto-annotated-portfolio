@@ -222,7 +222,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/soc.jpg
+        url: /images/pinacle.jpg
         altText: ''
         caption: ''
         elementId: ''
