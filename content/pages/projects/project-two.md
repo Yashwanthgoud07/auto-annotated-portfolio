@@ -14,7 +14,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/modeling and predicting of cyberhacking breaches.jpg
-  altText: Project thumbnail image
+  altText: Modeling and predicting of cyberhacking breaches
 media:
   type: ImageBlock
   altText: Project image
