@@ -203,7 +203,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/ibm.jpg
-        altText: altText of the image
+        altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
