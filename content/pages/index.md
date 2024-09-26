@@ -219,7 +219,7 @@ sections:
       - type: ImageBlock
         url: /images/lor.jpg
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
