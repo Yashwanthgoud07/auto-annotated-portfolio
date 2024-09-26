@@ -204,7 +204,7 @@ sections:
       - type: ImageBlock
         url: /images/ibm.jpg
         altText: altText of the image
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
