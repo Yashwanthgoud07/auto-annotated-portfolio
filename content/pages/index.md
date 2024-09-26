@@ -35,7 +35,7 @@ sections:
         borderWidth: 3
         borderStyle: none
       title:
-        textAlign: center
+        textAlign: right
         fontWeight: 400
       subtitle:
         textAlign: left
