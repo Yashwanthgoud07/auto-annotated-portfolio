@@ -44,7 +44,15 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.linkedin.com/in/byashwanthgoud07/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1714048266498.jpg
