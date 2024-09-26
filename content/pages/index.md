@@ -199,7 +199,7 @@ sections:
       - type: ImageBlock
         url: /images/CISCO.jpg
         altText: ''
-        caption: 'Introduction to cybersecurity from cisco '
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
