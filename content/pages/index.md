@@ -229,7 +229,7 @@ sections:
       - type: ImageBlock
         url: /images/prod.jpg
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
