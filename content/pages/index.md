@@ -137,7 +137,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: ''
+        url: 'https://github.com/Yashwanthgoud07/Yashwanthgoud07'
     showDate: false
     showDescription: true
     showFeaturedImage: true
