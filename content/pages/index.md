@@ -178,7 +178,7 @@ sections:
     subtitle: ''
     title: PROJECTS
   - type: MediaGallerySection
-    title: CERTIFICATIONS I HOLD !!!
+    title: CERTIFICATIONS & ACHIEVEMENTS I HOLD !!!
     subtitle: ''
     images:
       - type: ImageBlock
