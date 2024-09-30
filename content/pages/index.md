@@ -63,15 +63,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: 'MAIL ME '
-        altText: /b.yashwanthgoud07@gmail.com
-        url: /b.yashwanthgoud07@gmail.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/1714048266498.jpg
