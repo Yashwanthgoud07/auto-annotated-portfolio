@@ -293,7 +293,7 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >+
-          <div style="text-align: left">I had the pleasure of working with
+          <div style="text-align: left">## I had the pleasure of working with
           Yashwanth at CloudServ Systems, where he consistently excelled as a
           Cloud Engineer. His technical expertise in cloud technologies and
           problem-solving abilities have been key to optimizing our systems.
@@ -303,8 +303,7 @@ sections:
           apart. Beyond his technical skills, he brings a positive attitude and
           strong work ethic to every project. I highly recommend Yashwanth for
           any role requiring technical expertise, teamwork, and a passion for
-          excellence—he’s a true
-          asset!.<https://www.linkedin.com/in/byashwanthgoud07/#:~:text=the%20same%20team-,I%E2%80%99ve%20had%20the%20pleasure%20of%20working%20with%20Yashwanth%20at%20CloudServ%20Systems,passion%20for%20excellence.%20He%20is%20a%20true%20asset%20to%20any%20organization.,-I%E2%80%99ve%20had%20the></div>
+          excellence—he’s a true asset!.</div>
 
         name: Sathwik Mandipudi
         title: 'Junior cloud engineer '
