@@ -1,0 +1,27 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Google",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "mail"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "GMAIL",
+                "altText": "",
+                "url": "/b.yashwanthgoud07@gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            "thumbnail": "images/link-google-8f8b.png"
+        }
+    ]
+}
