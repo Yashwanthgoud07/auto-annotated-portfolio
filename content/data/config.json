@@ -7,18 +7,7 @@
         "isSticky": true,
         "title": "",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "GMAIL",
-                "altText": "",
-                "url": "/b.yashwanthgoud07@gmail.com",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
