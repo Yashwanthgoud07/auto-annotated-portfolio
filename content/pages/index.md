@@ -65,7 +65,7 @@ sections:
         elementId: ''
       - type: Button
         label: 'MAIL ME '
-        altText: ''
+        altText: /b.yashwanthgoud07@gmail.com
         url: /b.yashwanthgoud07@gmail.com
         showIcon: false
         icon: arrowRight
