@@ -40,11 +40,11 @@
         "letterSpacing": "normal"
     },
     "h5": {
-        "size": "xl",
+        "size": "lg",
         "weight": "medium",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "wide"
     },
     "h6": {
         "size": "lg",

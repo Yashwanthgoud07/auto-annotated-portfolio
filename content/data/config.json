@@ -3,22 +3,11 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "isSticky": true,
         "title": "",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "GMAIL",
-                "altText": "",
-                "url": "/b.yashwanthgoud07@gmail.com",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
@@ -40,12 +29,6 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "altText": "",
-            "caption": "",
-            "elementId": ""
         }
     },
     "footer": {
@@ -63,7 +46,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "b.yashwanthgoud07@gmail.com",
+                "url": "9390992651",
                 "altText": "9390992651"
             },
             {
