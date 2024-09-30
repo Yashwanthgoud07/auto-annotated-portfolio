@@ -289,6 +289,50 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >+
+          <div style="text-align: left">#### I had the pleasure of working with
+          Yashwanth at CloudServ Systems, where he consistently excelled as a
+          Cloud Engineer. His technical expertise in cloud technologies and
+          problem-solving abilities have been key to optimizing our systems.
+          Yashwanth approaches challenges calmly and strategically, making him
+          an invaluable team member. His collaboration with cross-functional
+          teams and commitment to staying current with industry trends set him
+          apart. Beyond his technical skills, he brings a positive attitude and
+          strong work ethic to every project. I highly recommend Yashwanth for
+          any role requiring technical expertise, teamwork, and a passion for
+          excellence—he’s a true asset!.</div>
+
+        name: Sathwik Mandipudi
+        title: 'Junior cloud engineer '
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-a
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
+        justifyContent: center
+        borderRadius: none
+        borderStyle: dashed
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    title: Recommendations
 metaTitle: Yashwanth Goud Bommagouni
 addTitleSuffix: true
 ---
