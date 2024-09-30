@@ -293,7 +293,7 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          <div style="text-align: left">1.  I’ve had the pleasure of working
+          <div style="text-align: left">###### I’ve had the pleasure of working
           with Yashwanth at CloudServ Systems, where he consistently showcased
           outstanding skills as a Cloud Engineer. His technical expertise,
           paired with his problem-solving abilities and dedication to delivering
