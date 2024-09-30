@@ -17,6 +17,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "GMAIL",
+                "altText": "",
+                "url": "/b.yashwanthgoud07@gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
