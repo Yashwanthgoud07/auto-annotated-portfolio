@@ -33,7 +33,7 @@
         "logo": {
             "type": "ImageBlock",
             "altText": "<a href=\"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=john.doe@gmail.com\">b.yashwanthgoud07@gmail.com</a>",
-            "caption": "",
+            "caption": "google",
             "elementId": "",
             "url": "/images/google mail.png"
         }
