@@ -4,7 +4,7 @@ title: HOME
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/portfolio s.jpg
+  url: /images/desktop-wallpaper-portfolio.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
