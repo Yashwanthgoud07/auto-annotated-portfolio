@@ -36,7 +36,7 @@ sections:
         borderStyle: none
       title:
         textAlign: left
-        fontWeight: 500
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
