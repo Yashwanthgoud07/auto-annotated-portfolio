@@ -42,7 +42,7 @@
     "h5": {
         "size": "lg",
         "weight": "medium",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "uppercase",
         "letterSpacing": "wide"
     },
