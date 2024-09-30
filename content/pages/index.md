@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: HOME
+title: YashwanthGoud
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
