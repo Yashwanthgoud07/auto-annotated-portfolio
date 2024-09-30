@@ -344,6 +344,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+    title: Recommendations
 metaTitle: Yashwanth Goud Bommagouni
 addTitleSuffix: true
 ---
