@@ -289,7 +289,7 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
-metaTitle: google mail
+metaTitle: Yashwanth Goud Bommagouni
 addTitleSuffix: true
 socialImage: /images/google mail.png
 ---
