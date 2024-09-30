@@ -291,5 +291,4 @@ sections:
         textAlign: center
 metaTitle: Yashwanth Goud Bommagouni
 addTitleSuffix: true
-socialImage: /images/google mail.png
 ---
