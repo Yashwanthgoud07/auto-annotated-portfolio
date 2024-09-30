@@ -290,6 +290,6 @@ sections:
         fontWeight": 400
         textAlign: center
 metaTitle: google mail
-addTitleSuffix: false
+addTitleSuffix: true
 socialImage: /images/google mail.png
 ---
