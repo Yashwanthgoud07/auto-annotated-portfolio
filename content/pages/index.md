@@ -327,6 +327,7 @@ sections:
           - pr-6
         justifyContent: center
         borderRadius: none
+        borderStyle: dashed
       title:
         textAlign: center
       subtitle:
