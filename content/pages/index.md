@@ -326,7 +326,7 @@ sections:
           - pl-6
           - pr-6
         justifyContent: center
-        borderRadius: xx-small
+        borderRadius: none
       title:
         textAlign: center
       subtitle:
