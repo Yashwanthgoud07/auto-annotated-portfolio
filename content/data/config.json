@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/1714048266498.jpg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -66,7 +66,7 @@
             "address": "Hyderabad, Telangana , India.",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "wide",
