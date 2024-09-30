@@ -321,10 +321,10 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
         justifyContent: center
       title:
         textAlign: center
