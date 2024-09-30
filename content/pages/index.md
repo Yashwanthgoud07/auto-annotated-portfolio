@@ -352,4 +352,5 @@ sections:
         textAlign: left
 metaTitle: google mail
 addTitleSuffix: true
+socialImage: /images/google mail.png
 ---
