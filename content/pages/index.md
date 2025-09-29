@@ -146,43 +146,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: Click here for more info on projects
-        url: 'https://github.com/Yashwanthgoud07/Yashwanthgoud07'
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: ''
-    title: PROJECTS
   - type: MediaGallerySection
     title: CERTIFICATIONS & ACHIEVEMENTS I HOLD !!!
     subtitle: ''
