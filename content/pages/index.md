@@ -113,7 +113,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'CYBERSECURITY FOUNDATIONS '
+        label: TERRAFORM
         url: ''
       - type: Label
         label: ''
