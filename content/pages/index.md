@@ -56,7 +56,8 @@ sections:
       - type: Button
         label: DOWNLOAD CV
         altText: ''
-        url: ''
+        url: >-
+          https://docs.google.com/document/d/1A4hV128BU7lDUERWAAXOyEyjG957biV1IkQBMHdtFvg/edit?tab=t.0
         showIcon: false
         icon: arrowRight
         iconPosition: right
