@@ -57,7 +57,7 @@ sections:
         label: DOWNLOAD CV
         altText: ''
         url: >-
-          https://drive.google.com/file/d/15lHtoOe-8B3MTrc0ECZaFU6F8UxmedrI/view?usp=drive_link
+          https://docs.google.com/document/d/1A4hV128BU7lDUERWAAXOyEyjG957biV1IkQBMHdtFvg/edit?tab=t.0
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -73,7 +73,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Meet me!!
-    text: >+
+    text: >
       With a strong foundation in Computer Science Engineering and a focus on
       cloud technologies, I am passionate about the evolving field of cloud
       security. I have completed my Bachelor of Technology in Computer Science
@@ -84,16 +84,13 @@ sections:
       Currently, I am working with Oracle Cloud Infrastructure (OCI), applying
       my knowledge to enhance and secure cloud environments. My role involves
       managing and optimizing cloud services, implementing robust security
-      measures, and addressing potential vulnerabilities. I am also actively
-      preparing for the OCI Foundations Associate certification to further
-      solidify my expertise in this area.
+      measures, and addressing potential vulnerabilities. 
 
 
       As I continue to grow in this field, I am excited about exploring new
       challenges and contributing to the advancement of cloud security
       practices. I look forward to connecting with professionals who share an
       interest in cloud technologies and collaborating on innovative solutions.
-
     elementId: ''
     styles:
       self:
@@ -116,7 +113,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'CYBERSECURITY FOUNDATIONS '
+        label: TERRAFORM
         url: ''
       - type: Label
         label: ''
@@ -125,10 +122,10 @@ sections:
         label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
-        label: MYSQL
+        label: ANSIBLE
         url: ''
       - type: Label
-        label: PYTHON
+        label: ARTIFICIAL INTELLIGENCE
         url: ''
       - type: Label
         label: LINUX
@@ -149,90 +146,47 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: Click here for more info on projects
-        url: 'https://github.com/Yashwanthgoud07/Yashwanthgoud07'
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: ''
-    title: PROJECTS
   - type: MediaGallerySection
     title: CERTIFICATIONS & ACHIEVEMENTS I HOLD !!!
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/foundations google.jpg
+        url: /images/OCI ARCH 1 .png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/CISCO.jpg
+        url: /images/OCI MULTICLOUD 1.png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/ibm.jpg
+        url: /images/OCI AUTONOMOUS DB 1.png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/mastercard.jpg
+        url: /images/OCI GEN AI 1.png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/oracle cloud.jpg
+        url: /images/OCI MIGRATION 1 .png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/hof.jpg
+        url: /images/OCI DATAPLATFORM FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/pinacle.jpg
+        url: /images/OCI FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/prod.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/internstud.jpg
+        url: /images/OCI AI FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
@@ -289,50 +243,6 @@ sections:
       title:
         fontWeight": 400
         textAlign: center
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >+
-          <div style="text-align: left">#### I had the pleasure of working with
-          Yashwanth at CloudServ Systems, where he consistently excelled as a
-          Cloud Engineer. His technical expertise in cloud technologies and
-          problem-solving abilities have been key to optimizing our systems.
-          Yashwanth approaches challenges calmly and strategically, making him
-          an invaluable team member. His collaboration with cross-functional
-          teams and commitment to staying current with industry trends set him
-          apart. Beyond his technical skills, he brings a positive attitude and
-          strong work ethic to every project. I highly recommend Yashwanth for
-          any role requiring technical expertise, teamwork, and a passion for
-          excellence—he’s a true asset!.</div>
-
-        name: Sathwik Mandipudi
-        title: 'Junior cloud engineer '
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-a
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
-        justifyContent: center
-        borderRadius: none
-        borderStyle: dashed
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    title: Recommendations
 metaTitle: Yashwanth Goud Bommagouni
 addTitleSuffix: true
 ---
