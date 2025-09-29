@@ -125,7 +125,7 @@ sections:
         label: ANSIBLE
         url: ''
       - type: Label
-        label: PYTHON
+        label: ARTIFICIAL INTELLIGENCE
         url: ''
       - type: Label
         label: LINUX
