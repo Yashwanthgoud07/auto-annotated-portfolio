@@ -73,7 +73,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Meet me!!
-    text: >+
+    text: >
       With a strong foundation in Computer Science Engineering and a focus on
       cloud technologies, I am passionate about the evolving field of cloud
       security. I have completed my Bachelor of Technology in Computer Science
@@ -84,16 +84,13 @@ sections:
       Currently, I am working with Oracle Cloud Infrastructure (OCI), applying
       my knowledge to enhance and secure cloud environments. My role involves
       managing and optimizing cloud services, implementing robust security
-      measures, and addressing potential vulnerabilities. I am also actively
-      preparing for the OCI Foundations Associate certification to further
-      solidify my expertise in this area.
+      measures, and addressing potential vulnerabilities. 
 
 
       As I continue to grow in this field, I am excited about exploring new
       challenges and contributing to the advancement of cloud security
       practices. I look forward to connecting with professionals who share an
       interest in cloud technologies and collaborating on innovative solutions.
-
     elementId: ''
     styles:
       self:
