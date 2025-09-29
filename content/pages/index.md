@@ -122,7 +122,7 @@ sections:
         label: ORACLE CLOUD INFRASTRUCTURE
         url: ''
       - type: Label
-        label: MYSQL
+        label: ANSIBLE
         url: ''
       - type: Label
         label: PYTHON
