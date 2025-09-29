@@ -181,7 +181,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/pinacle.jpg
+        url: /images/OCI DATAPLATFORM FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
