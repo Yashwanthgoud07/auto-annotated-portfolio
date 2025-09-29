@@ -176,11 +176,6 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/hof.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
         url: /images/OCI DATAPLATFORM FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
