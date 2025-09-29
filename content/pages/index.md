@@ -166,7 +166,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/mastercard.jpg
+        url: /images/OCI GEN AI 1.png
         altText: ''
         caption: ''
         elementId: ''
