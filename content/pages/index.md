@@ -186,7 +186,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/prod.jpg
+        url: /images/OCI FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
