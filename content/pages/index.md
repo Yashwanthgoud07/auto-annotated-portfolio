@@ -191,7 +191,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/internstud.jpg
+        url: /images/OCI AI FOUNDATIONS ASSOCIATE.png
         altText: ''
         caption: ''
         elementId: ''
