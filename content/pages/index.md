@@ -171,7 +171,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/oracle cloud.jpg
+        url: /images/OCI MIGRATION 1 .png
         altText: ''
         caption: ''
         elementId: ''
