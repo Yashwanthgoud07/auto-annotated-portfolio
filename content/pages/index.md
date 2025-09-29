@@ -151,7 +151,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/foundations google.jpg
+        url: /images/OCI ARCH 1 .png
         altText: ''
         caption: ''
         elementId: ''
