@@ -161,7 +161,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/ibm.jpg
+        url: /images/OCI AUTONOMOUS DB 1.png
         altText: ''
         caption: ''
         elementId: ''
