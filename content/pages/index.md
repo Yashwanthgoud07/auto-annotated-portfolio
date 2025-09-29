@@ -156,7 +156,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/CISCO.jpg
+        url: /images/OCI MULTICLOUD 1.png
         altText: ''
         caption: ''
         elementId: ''
